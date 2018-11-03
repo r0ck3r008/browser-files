@@ -16,6 +16,7 @@ no-scripting: behind-the-scene false
 * ssl-images-amazon.com * block
 * whatsapp.com * block
 * youtube.com * block
+* ytimg.com * block
 about.gitlab.com gitlab.com * noop
 arstechnica.com arstechnica.net * noop
 aws.amazon.com amazon.com * noop
@@ -38,4 +39,3 @@ www.facebook.com fbcdn.net * noop
 www.mozilla.org mozilla.org * noop
 www.youtube.com googlevideo.com * noop
 www.youtube.com youtube.com * noop
-www.youtube.com ytimg.com * noop
