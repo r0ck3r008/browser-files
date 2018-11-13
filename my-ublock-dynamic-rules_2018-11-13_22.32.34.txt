@@ -39,3 +39,4 @@ www.facebook.com fbcdn.net * noop
 www.mozilla.org mozilla.org * noop
 www.youtube.com googlevideo.com * noop
 www.youtube.com youtube.com * noop
+www.youtube.com ytimg.com * noop
