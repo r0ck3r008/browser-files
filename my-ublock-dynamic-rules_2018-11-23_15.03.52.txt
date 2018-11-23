@@ -31,6 +31,8 @@ behind-the-scene * inline-script noop
 duckduckgo.com duckduckgo.com * noop
 gitlab.com gitlab-static.net * noop
 gitlab.com gitlab.com * noop
+stackoverflow.com sstatic.net * noop
+unix.stackexchange.com sstatic.net * noop
 web.whatsapp.com whatsapp.com * noop
 www.amazon.com amazon.com * noop
 www.amazon.com ssl-images-amazon.com * noop
