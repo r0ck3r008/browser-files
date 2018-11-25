@@ -1,0 +1,57 @@
+https-strict: behind-the-scene false
+matrix-off: about-scheme true
+matrix-off: behind-the-scene true
+matrix-off: chrome-extension-scheme true
+matrix-off: chrome-scheme true
+matrix-off: moz-extension-scheme true
+matrix-off: opera-scheme true
+matrix-off: vivaldi-scheme true
+matrix-off: wyciwyg-scheme true
+noscript-spoof: * true
+referrer-spoof: * true
+referrer-spoof: behind-the-scene false
+* * * block
+* * css allow
+* * frame block
+* * image allow
+* 1st-party * allow
+* 1st-party frame allow
+* amazon-adsystem.com * block
+* amazon.com * block
+* atdmt.com * block
+* awsstatic.com * block
+* duckduckgo.com * block
+* facebook.com * block
+* fbcdn.net * block
+* fbsbx.com * block
+* gitlab.com * block
+* mozilla.org * block
+* ssl-images-amazon.com * block
+* whatsapp.com * block
+* youtube.com * block
+* ytimg.com * block
+about.gitlab.com gitlab.com * allow
+arstechnica.com arstechnica.net * allow
+aws.amazon.com amazon.com * allow
+aws.amazon.com awsstatic.com * allow
+behind-the-scene * * allow
+behind-the-scene * image allow
+duckduckgo.com duckduckgo.com * allow
+gitlab.com gitlab-static.net * allow
+gitlab.com gitlab.com * allow
+google.com google.com cookie block
+google.com www.google.com cookie allow
+stackoverflow.com sstatic.net * allow
+unix.stackexchange.com sstatic.net * allow
+web.whatsapp.com whatsapp.com * allow
+www.amazon.com amazon.com * allow
+www.amazon.com ssl-images-amazon.com * allow
+www.facebook.com facebook.com * allow
+www.facebook.com fbcdn.net * allow
+www.mozilla.org mozilla.org * allow
+www.reddit.com redd.it * allow
+www.reddit.com redditmedia.com * allow
+www.reddit.com redditstatic.com * allow
+www.youtube.com googlevideo.com * allow
+www.youtube.com youtube.com * allow
+www.youtube.com ytimg.com * allow
