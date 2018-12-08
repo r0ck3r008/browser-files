@@ -1,3 +1,4 @@
+no-csp-reports: * true
 no-large-media: behind-the-scene false
 no-scripting: behind-the-scene false
 * * 3p block
@@ -31,6 +32,8 @@ behind-the-scene * inline-script noop
 duckduckgo.com duckduckgo.com * noop
 gitlab.com gitlab-static.net * noop
 gitlab.com gitlab.com * noop
+mail.google.com googleusercontent.com * noop
+mail.google.com gstatic.com * noop
 stackoverflow.com sstatic.net * noop
 unix.stackexchange.com sstatic.net * noop
 web.whatsapp.com whatsapp.com * noop
