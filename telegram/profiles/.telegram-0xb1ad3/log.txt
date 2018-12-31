@@ -1,0 +1,53 @@
+[2018.12.31 19:16:44] Launched version: 1005004, install beta: [FALSE], alpha: 0, debug mode: [FALSE], test dc: [FALSE]
+[2018.12.31 19:16:44] Executable dir: /usr/bin/, name: telegram-desktop
+[2018.12.31 19:16:44] Initial working dir: /home/naman/.telegram-0xb1ad3/
+[2018.12.31 19:16:44] Working dir: /home/naman/.telegram-0xb1ad3/
+[2018.12.31 19:16:44] Command line: telegram-desktop -workdir .telegram-0xb1ad3
+[2018.12.31 19:16:44] Executable path before check: /usr/bin/telegram-desktop
+[2018.12.31 19:16:44] Logs started
+[2018.12.31 19:16:44] Connecting local socket to /tmp/0c5fcafaf25195871d5753aa0618eb80-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2018.12.31 19:16:44] This is the only instance of Telegram, starting server and app...
+[2018.12.31 19:16:44] Moved logging from '/home/naman/.telegram-0xb1ad3/log_start0.txt' to '/home/naman/.telegram-0xb1ad3/log.txt'!
+[2018.12.31 19:16:44] Primary screen DPI: 96.1263
+[2018.12.31 19:16:44] Font Error: could not resolve 'Open Sans' font, got 'DejaVu Sans' after feeding '%3'.
+[2018.12.31 19:16:44] Font Error: could not resolve 'Open Sans' font, got 'DejaVu Sans' after feeding '%3'.
+[2018.12.31 19:16:44] Font Error: could not resolve 'Open Sans Semibold' font, got 'DejaVu Sans' after feeding '%3'.
+[2018.12.31 19:16:44] Could not load 'ayatana-appindicator3' with version 1 :(
+[2018.12.31 19:16:44] Could not load 'appindicator3' with version 1 :(
+[2018.12.31 19:16:44] Error: failed to load 'gdk_x11_drawable_get_xdisplay' function!
+[2018.12.31 19:16:44] Getting DE, XDG_CURRENT_DESKTOP: 'i3'
+[2018.12.31 19:16:44] Getting DE, DESKTOP_SESSION: 'i3'
+[2018.12.31 19:16:44] Getting DE, KDE_SESSION_VERSION: ''
+[2018.12.31 19:16:44] Getting DE, GNOME_DESKTOP_SESSION_ID: ''
+[2018.12.31 19:16:44] Getting DE, KDE_FULL_SESSION: ''
+[2018.12.31 19:16:44] DE: Other
+[2018.12.31 19:16:44] Tray Icon: Try Qt = [TRUE], Prefer appindicator = [FALSE]
+[2018.12.31 19:16:44] App Info: reading settings...
+[2018.12.31 19:16:44] App Info: reading encrypted settings...
+[2018.12.31 19:16:44] Lang Info: Loaded cached, keys: 2112
+[2018.12.31 19:16:44] OpenAL Logging Level: (not set)
+[2018.12.31 19:16:44] Audio Playback Devices: OpenAL Soft
+[2018.12.31 19:16:44] Audio Playback Default Device: OpenAL Soft
+[2018.12.31 19:16:44] Audio Capture Devices: Built-in Audio Analog Stereo;Monitor of Built-in Audio Analog Stereo
+[2018.12.31 19:16:44] Audio Capture Default Device: Built-in Audio Analog Stereo
+[2018.12.31 19:16:44] App Info: reading map...
+[2018.12.31 19:16:44] App Info: reading encrypted map...
+[2018.12.31 19:16:44] App Info: reading encrypted user settings...
+[2018.12.31 19:16:44] App Info: encrypted user settings read.
+[2018.12.31 19:16:44] App Info: reading encrypted mtp data...
+[2018.12.31 19:16:44] MTP Info: read keys, current: 3, to destroy: 0
+[2018.12.31 19:16:44] Map read time: 1
+[2018.12.31 19:16:44] TCP Error: network - Network unreachable
+[2018.12.31 19:16:44] HTTP Error: network error 99 - Network unreachable
+[2018.12.31 19:16:44] Export Info: Destroy top bar by controller removal.
+[2018.12.31 19:16:44] Using Qt tray icon.
+[2018.12.31 19:16:44] Tray Icon: Using Qt tray icon, available: [TRUE]
+[2018.12.31 19:16:44] Not using Unity Launcher count.
+[2018.12.31 19:16:45] TCP Error: network - Network unreachable
+[2018.12.31 19:16:45] HTTP Error: network error 99 - Network unreachable
+[2018.12.31 19:17:02] LibNotify Error: could not get server name!
+[2018.12.31 19:17:09] App Info: writing encrypted user settings...
+[2018.12.31 19:17:11] App Info: writing encrypted user settings...
+[2018.12.31 19:17:12] App Info: writing encrypted user settings...
+[2018.12.31 19:17:15] App Info: writing encrypted user settings...
+[2018.12.31 19:17:29] RPC Error: request 24 got fail with code 406, error FRESH_RESET_AUTHORISATION_FORBIDDEN

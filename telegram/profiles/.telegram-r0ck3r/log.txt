@@ -1,0 +1,52 @@
+[2018.12.31 19:21:01] Launched version: 1005004, install beta: [FALSE], alpha: 0, debug mode: [FALSE], test dc: [FALSE]
+[2018.12.31 19:21:01] Executable dir: /usr/bin/, name: telegram-desktop
+[2018.12.31 19:21:01] Initial working dir: /home/naman/.telegram-r0ck3r/
+[2018.12.31 19:21:01] Working dir: /home/naman/.telegram-r0ck3r/
+[2018.12.31 19:21:01] Command line: telegram-desktop -workdir .telegram-r0ck3r
+[2018.12.31 19:21:01] Executable path before check: /usr/bin/telegram-desktop
+[2018.12.31 19:21:01] Logs started
+[2018.12.31 19:21:01] Connecting local socket to /tmp/75f07f9ad26a7b3fa8f6c6d195835346-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2018.12.31 19:21:01] This is the only instance of Telegram, starting server and app...
+[2018.12.31 19:21:01] Moved logging from '/home/naman/.telegram-r0ck3r/log_start0.txt' to '/home/naman/.telegram-r0ck3r/log.txt'!
+[2018.12.31 19:21:01] Primary screen DPI: 96.1263
+[2018.12.31 19:21:01] Font Error: could not resolve 'Open Sans' font, got 'DejaVu Sans' after feeding '%3'.
+[2018.12.31 19:21:01] Font Error: could not resolve 'Open Sans' font, got 'DejaVu Sans' after feeding '%3'.
+[2018.12.31 19:21:01] Font Error: could not resolve 'Open Sans Semibold' font, got 'DejaVu Sans' after feeding '%3'.
+[2018.12.31 19:21:01] Could not load 'ayatana-appindicator3' with version 1 :(
+[2018.12.31 19:21:01] Could not load 'appindicator3' with version 1 :(
+[2018.12.31 19:21:01] Error: failed to load 'gdk_x11_drawable_get_xdisplay' function!
+[2018.12.31 19:21:01] Getting DE, XDG_CURRENT_DESKTOP: 'i3'
+[2018.12.31 19:21:01] Getting DE, DESKTOP_SESSION: 'i3'
+[2018.12.31 19:21:01] Getting DE, KDE_SESSION_VERSION: ''
+[2018.12.31 19:21:01] Getting DE, GNOME_DESKTOP_SESSION_ID: ''
+[2018.12.31 19:21:01] Getting DE, KDE_FULL_SESSION: ''
+[2018.12.31 19:21:01] DE: Other
+[2018.12.31 19:21:01] Tray Icon: Try Qt = [TRUE], Prefer appindicator = [FALSE]
+[2018.12.31 19:21:01] OpenAL Logging Level: (not set)
+[2018.12.31 19:21:01] Audio Playback Devices: OpenAL Soft
+[2018.12.31 19:21:01] Audio Playback Default Device: OpenAL Soft
+[2018.12.31 19:21:01] Audio Capture Devices: Built-in Audio Analog Stereo;Monitor of Built-in Audio Analog Stereo
+[2018.12.31 19:21:01] Audio Capture Default Device: Built-in Audio Analog Stereo
+[2018.12.31 19:21:01] TCP Error: network - Network unreachable
+[2018.12.31 19:21:01] HTTP Error: network error 99 - Network unreachable
+[2018.12.31 19:21:01] Using Qt tray icon.
+[2018.12.31 19:21:01] Tray Icon: Using Qt tray icon, available: [TRUE]
+[2018.12.31 19:21:01] Not using Unity Launcher count.
+[2018.12.31 19:21:04] TCP Error: network - Network unreachable
+[2018.12.31 19:21:04] TCP Error: network - Network unreachable
+[2018.12.31 19:21:04] HTTP Error: network error 99 - Network unreachable
+[2018.12.31 19:21:22] Export Info: Destroy top bar by controller removal.
+[2018.12.31 19:21:22] TCP Error: network - Network unreachable
+[2018.12.31 19:21:22] HTTP Error: network error 99 - Network unreachable
+[2018.12.31 19:21:22] TCP Error: network - Network unreachable
+[2018.12.31 19:21:22] HTTP Error: network error 99 - Network unreachable
+[2018.12.31 19:21:27] Error: could not locate 'background.jpg' in a zip file.
+[2018.12.31 19:21:27] Error: could not locate 'background.png' in a zip file.
+[2018.12.31 19:21:27] App Info: writing encrypted user settings...
+[2018.12.31 19:21:33] LibNotify Error: could not get server name!
+[2018.12.31 19:21:34] App Info: writing encrypted user settings...
+[2018.12.31 19:21:34] App Info: writing encrypted user settings...
+[2018.12.31 19:21:36] App Info: writing encrypted user settings...
+[2018.12.31 19:21:37] App Info: writing encrypted user settings...
+[2018.12.31 19:21:39] App Info: writing encrypted user settings...
+[2018.12.31 19:21:40] App Info: writing encrypted user settings...

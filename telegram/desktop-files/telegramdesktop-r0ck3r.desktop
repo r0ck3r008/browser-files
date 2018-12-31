@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Telegram-r0ck3r
+Comment=Official desktop version of Telegram messaging app
+Exec=telegram-desktop -workdir ~/.telegram-r0ck3r -- %u
+Icon=telegram
+Terminal=false
+StartupWMClass=TelegramDesktop
+Type=Application
+Categories=Network;InstantMessaging;Qt;
+MimeType=x-scheme-handler/tg;
+Keywords=tg;chat;im;messaging;messenger;sms;tdesktop;
+X-GNOME-UsesNotifications=true
