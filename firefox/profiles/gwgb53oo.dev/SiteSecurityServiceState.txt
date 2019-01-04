@@ -8,12 +8,12 @@ services.addons.mozilla.org:HSTS	1	17889	1577215893019,1,0,2
 services.addons.mozilla.org:HPKP	1	17889	1550863893021,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
 versioncheck-bg.addons.mozilla.org:HSTS	1	17889	1545680195071,1,0,2
 normandy.services.mozilla.com:HSTS	0	17888	1577126624434,1,1,2
+normandy.cdn.mozilla.net:HSTS	0	17888	1577126625102,1,1,2
 normandy.services.mozilla.com:HPKP	0	17888	1545677024436,1,0,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg=sRHdihwgkaib1P1gxX8HFszlD+7/gTfNvuAybgLPNis=
 mozilla.org:HSTS	0	17888	1577125965806,1,0,2
 discovery.addons.mozilla.org:HSTS	0	17888	1577126343526,1,0,2
-shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	2	17894	1577597802293,1,1,2
-normandy.cdn.mozilla.net:HPKP	0	17888	1545677025103,1,0,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg=sRHdihwgkaib1P1gxX8HFszlD+7/gTfNvuAybgLPNis=
+shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	3	17900	1578138829886,1,1,2
 versioncheck-bg.addons.mozilla.org:HPKP	1	17889	1550863895072,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
 addons.mozilla.org:HSTS	1	17889	1577126404025,1,0,2
-normandy.cdn.mozilla.net:HSTS	0	17888	1577126625102,1,1,2
+normandy.cdn.mozilla.net:HPKP	0	17888	1545677025103,1,0,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg=sRHdihwgkaib1P1gxX8HFszlD+7/gTfNvuAybgLPNis=
 aus5.mozilla.org:HSTS	1	17889	1577215897096,1,0,2
