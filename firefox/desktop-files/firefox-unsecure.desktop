@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
 Name=Firefox-unsecure
-GenericName=Web Browser
-Comment=Browse the Web
+GenericName=Unsecured browser
+Comment=Browse the web unsecurely
 Exec=/usr/lib/firefox/firefox -P unsecure %u
 Icon=firefox
 Terminal=false

@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
 Name=Firefox-netflix
-GenericName=Web Browser
-Comment=Browse the Web
+GenericName=Watch netflix
+Comment=Netflix and chill
 Exec=/usr/lib/firefox/firefox -P netflix %u
 Icon=firefox
 Terminal=false

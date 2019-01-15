@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
 Name=Firefox-youtube
-GenericName=Web Browser
-Comment=Browse the Web
+GenericName=Youtube browser
+Comment=Watch youtube
 Exec=/usr/lib/firefox/firefox -P youtube %u
 Icon=firefox
 Terminal=false

@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
 Name=Firefox-dev
-GenericName=Web Browser
-Comment=Browse the Web
+GenericName=Developemnt browser
+Comment=Browse for development
 Exec=/usr/lib/firefox/firefox -P dev %u
 Icon=firefox
 Terminal=false
