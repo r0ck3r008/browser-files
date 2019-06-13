@@ -1,0 +1,430 @@
+{
+   "aboutText": {
+      "description": "About",
+      "message": "Despre"
+   },
+   "activeModeText": {
+      "description": "Enable Automatic Cleaning? Delay Before Cleaning:",
+      "message": "Activează curățarea automată? Întârziere înainte de curățare:"
+   },
+   "autoDeleteDisabledText": {
+      "description": "Auto-clean disabled",
+      "message": "Ștergerea automată dezactivată"
+   },
+   "autoDeleteEnabledText": {
+      "description": "Auto-clean enabled",
+      "message": "Ștergerea automată activată"
+   },
+   "cleanIgnoringOpenTabsText": {
+      "description": "Clean, include open tabs",
+      "message": "Curăță, inclusiv pentru filele deschise"
+   },
+   "cleanText": {
+      "description": "Clean",
+      "message": "Curăță"
+   },
+   "cleanupDomainChangeText": {
+      "description": "Enable Cleanup on Domain Change",
+      "message": "Activează ștergerea la schimbarea domeniului"
+   },
+   "cleanupLogText": {
+      "description": "Cleanup Log",
+      "message": "Jurnalul de curățare"
+   },
+   "clearLogsText": {
+      "description": "Clear Logs",
+      "message": "Șterge jurnalele"
+   },
+   "clearSiteDataForDomainText": {
+      "description": "Clear all cookies for example.com",
+      "message": "Curăță toate $siteData$ pentru $domain$",
+      "placeholders": {
+         "domain": {
+            "content": "$2",
+            "example": "example.com"
+         },
+         "siteData": {
+            "content": "$1",
+            "example": "cookies"
+         }
+      }
+   },
+   "clearSiteDataText": {
+      "description": "Clear cookies for this domain",
+      "message": "Curăță $siteData$ pentru acest domeniu",
+      "placeholders": {
+         "siteData": {
+            "content": "$1",
+            "example": "cookies"
+         }
+      }
+   },
+   "clearURLText": {
+      "description": "Remove All",
+      "message": "Șterge tot"
+   },
+   "contextualIdentitiesEnabledText": {
+      "description": "Enable Support for Firefox's Container Tabs",
+      "message": "Activează suportul pentru filele container din Firefox"
+   },
+   "contributeText": {
+      "description": "Contribute",
+      "message": "Contribuie"
+   },
+   "contributorsText": {
+      "description": "Contributors:",
+      "message": "Contribuitori:"
+   },
+   "cookieCleanUpOnStartText": {
+      "description": "Clean Cookies from Open Tabs on Startup",
+      "message": "Șterge cookie-urile din filele deschise la pornire"
+   },
+   "cookieCleanupIgnoreOpenTabsText": {
+      "description": "Run cleanup now, include cookies from open tabs",
+      "message": "Rulează curățarea acum, inclusiv pentru cookie-urile din filele deschise"
+   },
+   "cookieCleanupText": {
+      "description": "Run cleanup now",
+      "message": "Rulează curățarea acum"
+   },
+   "defaultSettingsText": {
+      "description": "Restore Default Settings",
+      "message": "Restabilește configurările predefinite"
+   },
+   "disableAutoDeleteText": {
+      "description": "Toggle to disable automatic cleanup (manual mode)",
+      "message": "Schimbă pentru a dezactiva ștergerea automată (modul manual)"
+   },
+   "domainExpressionsText": {
+      "description": "Domain Expression",
+      "message": "Expresie pentru domeniu"
+   },
+   "domainPlaceholderText": {
+      "description": "Domain Expression",
+      "message": "example.com, subdomain.example.com, *.example.com"
+   },
+   "editExpressionText": {
+      "description": "Edit expression",
+      "message": "Modifică expresia"
+   },
+   "enableAutoDeleteText": {
+      "description": "Toggle to enable automatic cleanup (automatic mode)",
+      "message": "Schimbă pentru a activa ștergerea automată (modul automat)"
+   },
+   "enableCleanupLogText": {
+      "description": "Enable Cleanup Log and Counter",
+      "message": "Activează jurnalul și contorul de ștergere"
+   },
+   "enableGlobalSubdomainText": {
+      "description": "Enable Check for Subdomains",
+      "message": "Activează verificarea pentru subdomenii"
+   },
+   "errorText": {
+      "description": "Error!",
+      "message": "Eroare!"
+   },
+   "exportURLSText": {
+      "description": "Export Expressions",
+      "message": "Exportă expresiile"
+   },
+   "exportURLSTitle": {
+      "description": "A timestamp will be appended to the filename on export.\nHaving trouble downloading?  Right-Click this button and click 'Save Link As...' to download.",
+      "message": "Un marcaj de timp va fi adăugat la numele de fișier la export.\nAi probleme la descărcare? Clic dreapta pe acest buton și clic 'Salvează linkul ca...' pentru a descărca."
+   },
+   "extensionDescription": {
+      "description": "Control your cookies! Auto-delete unused cookies from your closed tabs while keeping the ones you want.",
+      "message": "Controlează cookie-urile! Șterge automat cookie-urile nefolosite din filele închise și în același timp le păstrează pe cele dorite."
+   },
+   "extensionName": {
+      "description": "Name of the extension.",
+      "message": "Cookie AutoDelete"
+   },
+   "filterText": {
+      "description": "Filter",
+      "message": "Filtru"
+   },
+   "greyListWordText": {
+      "description": "Greylist",
+      "message": "Lista gri"
+   },
+   "importURLSText": {
+      "description": "Import Expressions",
+      "message": "Importă expresiile"
+   },
+   "keepAllCookiesText": {
+      "description": "Keep All Cookies",
+      "message": "Păstrează toate cookie-urile"
+   },
+   "keepLocalstorageText": {
+      "description": "Keep Localstorage",
+      "message": "Păstrează Localstorage"
+   },
+   "keepText": {
+      "description": "Keep",
+      "message": "Păstrează"
+   },
+   "listTypeText": {
+      "description": "List Type",
+      "message": "Tipul de listă"
+   },
+   "localstorageAndContextualIdentitiesWarning": {
+      "description": "Enabling both Localstorage Cleanup and Container Tabs might cause some unwanted side effects due to API Limitations",
+      "message": "Enabling both Localstorage Cleanup and Container Tabs might cause some unwanted side effects due to API Limitations"
+   },
+   "localstorageCleanupText": {
+      "description": "Localstorage Cleanup (Firefox 58+)",
+      "message": "Ștergere Localstorage (Firefox 58+)"
+   },
+   "matchedDomainExpressionText": {
+      "description": "Matched Domain Expression",
+      "message": "Expresia corespondentă pentru domeniu"
+   },
+   "minutesText": {
+      "description": "Minute(s)",
+      "message": "Minut(e)"
+   },
+   "noCleanupLogText": {
+      "description": "No Cleanup Logs Found",
+      "message": "Nu există jurnale de ștergere"
+   },
+   "noExpressionsText": {
+      "description": "No expressions defined.",
+      "message": "Nicio expresie definită."
+   },
+   "noRulesText": {
+      "description": "No rules matched this domain",
+      "message": "Nicio regulă nu se potrivește pentru acest domeniu"
+   },
+   "noneText": {
+      "description": "None",
+      "message": "Nimic"
+   },
+   "notificationContent": {
+      "description": "123 Deleted Cookies from: google.com, facebook.com",
+      "message": "$Num$ cookie-uri șterse de la: $Websites$",
+      "placeholders": {
+         "num": {
+            "content": "$1",
+            "example": "123"
+         },
+         "websites": {
+            "content": "$2",
+            "example": "google.com, facebook.com"
+         }
+      }
+   },
+   "notificationDisabledText": {
+      "description": "Notification disabled",
+      "message": "Notificare dezactivată"
+   },
+   "notificationEnabledText": {
+      "description": "Notification enabled",
+      "message": "Notificare activată"
+   },
+   "notificationTitle": {
+      "description": "Cookie AutoDelete 3.X.X: Cookies were deleted!",
+      "message": "Cookie AutoDelete: Cookie-urile au fost șterse!",
+      "placeholders": {
+         "ver": {
+            "content": "$1",
+            "example": "3.0.0"
+         }
+      }
+   },
+   "notifyCookieCleanUpText": {
+      "description": "Show Notification After Cookie Cleanup",
+      "message": "Arată o notificare după ștergerea cookie-rilor"
+   },
+   "optionsText": {
+      "description": "Options",
+      "message": "Opțiuni"
+   },
+   "preferencesText": {
+      "description": "Settings",
+      "message": "Configurări"
+   },
+   "questionExpression": {
+      "description": "How do Expressions work?",
+      "message": "Cum funcționează expresiile?"
+   },
+   "reasonCleanCookieName": {
+      "description": "Partial clean because of matched *.google.com in the Whitelist",
+      "message": "Partial clean because of matched $matchedExpression$ in the $listType$",
+      "placeholders": {
+         "listType": {
+            "content": "$2",
+            "example": "Whitelist"
+         },
+         "matchedExpression": {
+            "content": "$1",
+            "example": "*.google.com"
+         }
+      }
+   },
+   "reasonCleanGreyList": {
+      "description": "Clean because of startup cleanup and *.google.com is in the Greylist",
+      "message": "Curăță datorită ștergerii la pornire și $matchedExpression$ se regăsește în lista gri",
+      "placeholders": {
+         "matchedExpression": {
+            "content": "$1",
+            "example": "*.google.com"
+         }
+      }
+   },
+   "reasonCleanNoList": {
+      "description": "Clean because sub.google.com is not in the White/Grey lists",
+      "message": "Curăță deoarece $hostname$ nu este în lista albă/gri",
+      "placeholders": {
+         "hostname": {
+            "content": "$1",
+            "example": "sub.google.com"
+         }
+      }
+   },
+   "reasonCleanStartupNoList": {
+      "description": "Clean because of startup cleanup and sub.google.com is not in the White/Grey lists",
+      "message": "Curăță datorită ștergerii la pornire și $hostname$ nu se regăsește în lista albă/gri",
+      "placeholders": {
+         "hostname": {
+            "content": "$1",
+            "example": "sub.google.com"
+         }
+      }
+   },
+   "reasonKeep": {
+      "description": "Keep because of matched *.google.com in the Whitelist",
+      "message": "Păstrează deoarece $matchedExpression$ s-a potrivit în $listType$",
+      "placeholders": {
+         "listType": {
+            "content": "$2",
+            "example": "Whitelist"
+         },
+         "matchedExpression": {
+            "content": "$1",
+            "example": "*.google.com"
+         }
+      }
+   },
+   "reasonKeepOpenTab": {
+      "description": "Keep because of open tabs of *.google.com",
+      "message": "Păstrată datorită filelor deschise pentru *.$mainDomain$",
+      "placeholders": {
+         "mainDomain": {
+            "content": "$1",
+            "example": "google.com"
+         }
+      }
+   },
+   "reasonTabsWereIgnored": {
+      "description": "Clean because of sub.google.com is not in the White/Grey lists and also open tabs were ignored",
+      "message": "iar filele deschise au fost ignorate"
+   },
+   "reasonTabsWereNotIgnored": {
+      "description": "Clean because of sub.google.com is not in the White/Grey lists or in any open tabs",
+      "message": "sau în orice filă deschisă"
+   },
+   "regularExpressionEquivalentText": {
+      "description": "Regular Expression Equivalent",
+      "message": "Expresie regulată echivalentă"
+   },
+   "releaseNotesText": {
+      "description": "Release Notes",
+      "message": "Note de lansare"
+   },
+   "removeExpressionText": {
+      "description": "Remove expression",
+      "message": "Șterge expresia"
+   },
+   "reportIssuesText": {
+      "description": "Report issues and suggest features",
+      "message": "Raportează probleme și sugerează caracteristici"
+   },
+   "resetExtensionDataText": {
+      "description": "Reset Extension Data",
+      "message": "Reset Extension Data"
+   },
+   "restoreText": {
+      "description": "Ex: Restore Cleanup",
+      "message": "Restaurează"
+   },
+   "reviewLinkMessage": {
+      "description": "Thanks for trying out Cookie AutoDelete. If you liked it, then please give a review.",
+      "message": "Mulțumiri pentru că ai încercat Cookie AutoDelete. Dacă ți-a plăcut, scrie te rog o recenzie."
+   },
+   "saveExpressionText": {
+      "description": "Save expression",
+      "message": "Salvează expresia"
+   },
+   "secondsText": {
+      "description": "Second(s)",
+      "message": "Secundă(e)"
+   },
+   "settingsText": {
+      "description": "Cookie Settings",
+      "message": "Configurări cookie-uri"
+   },
+   "showNumberOfCookiesInIconText": {
+      "description": "Show Number of Cookies for that Domain",
+      "message": "Arată numărul de cookie-uri pentru acel domeniu"
+   },
+   "stopEditingText": {
+      "description": "Stop editing",
+      "message": "Întrerupe modificarea"
+   },
+   "toGreyListText": {
+      "description": "Add to Greylist (Clean on Browser Restart)",
+      "message": "Adaugă în lista gri (Șterge la repornirea browser-ului)"
+   },
+   "toWhiteListText": {
+      "description": "Add to Whitelist (Never Clean)",
+      "message": "Adaugă în lista albă (nu șterge niciodată)"
+   },
+   "toggleNotificationText": {
+      "description": "Toggle to enable or disable notifications",
+      "message": "Schimbă pentru a activa sau dezactiva notificările"
+   },
+   "toggleToGreyListWordText": {
+      "description": "Toggle to greylist",
+      "message": "Schimbă în lista gri"
+   },
+   "toggleToWhiteListWordText": {
+      "description": "Toggle to whitelist",
+      "message": "Schimbă în lista albă"
+   },
+   "versionText": {
+      "description": "Firefox version",
+      "message": "Versiunea $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1",
+            "example": "Firefox"
+         }
+      }
+   },
+   "welcomeMessage": {
+      "description": "Hi there! During this session, Cookie AutoDelete has deleted 123 cookies and in total 456 cookies.",
+      "message": "Salut! În timpul acestei sesiuni Cookie AutoDelete a șters $sessionDeleted$ cookie-uri și în total $totalDeleted$ cookie-uri.",
+      "placeholders": {
+         "sessionDeleted": {
+            "content": "$1",
+            "example": "123"
+         },
+         "totalDeleted": {
+            "content": "$2",
+            "example": "456"
+         }
+      }
+   },
+   "welcomeText": {
+      "description": "Welcome",
+      "message": "Bun venit"
+   },
+   "whiteListText": {
+      "description": "List of Expressions",
+      "message": "Lista de expresii"
+   },
+   "whiteListWordText": {
+      "description": "Whitelist",
+      "message": "Lista albă"
+   }
+}

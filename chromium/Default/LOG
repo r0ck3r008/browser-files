@@ -1,1 +1,5 @@
-2018/11/18-16:34:06.183 15980 Delete type=3 #1
+2019/06/13-22:19:28.639 2aea Recovering log #3
+2019/06/13-22:19:28.639 2aea Level-0 table #5: started
+2019/06/13-22:19:28.693 2aea Level-0 table #5: 1105 bytes OK
+2019/06/13-22:19:28.842 2aea Delete type=0 #3
+2019/06/13-22:19:28.842 2aea Delete type=3 #2

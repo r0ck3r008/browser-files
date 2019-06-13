@@ -1,0 +1,430 @@
+{
+   "aboutText": {
+      "description": "About",
+      "message": "Tietoa"
+   },
+   "activeModeText": {
+      "description": "Enable Automatic Cleaning? Delay Before Cleaning:",
+      "message": "Käytä automaattista puhdistusta? Viive ennen puhdistusta:"
+   },
+   "autoDeleteDisabledText": {
+      "description": "Auto-clean disabled",
+      "message": "Auto-clean disabled"
+   },
+   "autoDeleteEnabledText": {
+      "description": "Auto-clean enabled",
+      "message": "Automaattinen puhdistus käytössä"
+   },
+   "cleanIgnoringOpenTabsText": {
+      "description": "Clean, include open tabs",
+      "message": "Puhdista kaikki"
+   },
+   "cleanText": {
+      "description": "Clean",
+      "message": "Puhdista"
+   },
+   "cleanupDomainChangeText": {
+      "description": "Enable Cleanup on Domain Change",
+      "message": "Enable Cleanup on Domain Change"
+   },
+   "cleanupLogText": {
+      "description": "Cleanup Log",
+      "message": "Cleanup Log"
+   },
+   "clearLogsText": {
+      "description": "Clear Logs",
+      "message": "Clear Logs"
+   },
+   "clearSiteDataForDomainText": {
+      "description": "Clear all cookies for example.com",
+      "message": "Clear all $siteData$ for $domain$",
+      "placeholders": {
+         "domain": {
+            "content": "$2",
+            "example": "example.com"
+         },
+         "siteData": {
+            "content": "$1",
+            "example": "cookies"
+         }
+      }
+   },
+   "clearSiteDataText": {
+      "description": "Clear cookies for this domain",
+      "message": "Clear $siteData$ for this domain",
+      "placeholders": {
+         "siteData": {
+            "content": "$1",
+            "example": "cookies"
+         }
+      }
+   },
+   "clearURLText": {
+      "description": "Remove All",
+      "message": "Poista kaikki"
+   },
+   "contextualIdentitiesEnabledText": {
+      "description": "Enable Support for Firefox's Container Tabs",
+      "message": "Enable Support for Firefox's Container Tabs"
+   },
+   "contributeText": {
+      "description": "Contribute",
+      "message": "Contribute"
+   },
+   "contributorsText": {
+      "description": "Contributors:",
+      "message": "Avustajat:"
+   },
+   "cookieCleanUpOnStartText": {
+      "description": "Clean Cookies from Open Tabs on Startup",
+      "message": "Clean Cookies from Open Tabs on Startup"
+   },
+   "cookieCleanupIgnoreOpenTabsText": {
+      "description": "Run cleanup now, include cookies from open tabs",
+      "message": "Puhdista kaikki, avointen välilehtien evästeet myös"
+   },
+   "cookieCleanupText": {
+      "description": "Run cleanup now",
+      "message": "Puhdista nyt"
+   },
+   "defaultSettingsText": {
+      "description": "Restore Default Settings",
+      "message": "Restore Default Settings"
+   },
+   "disableAutoDeleteText": {
+      "description": "Toggle to disable automatic cleanup (manual mode)",
+      "message": "Toggle to disable automatic cleanup (manual mode)"
+   },
+   "domainExpressionsText": {
+      "description": "Domain Expression",
+      "message": "Domain sääntö"
+   },
+   "domainPlaceholderText": {
+      "description": "Domain Expression",
+      "message": "example.com, subdomain.example.com, *.example.com"
+   },
+   "editExpressionText": {
+      "description": "Edit expression",
+      "message": "Muokkaa sääntöä"
+   },
+   "enableAutoDeleteText": {
+      "description": "Toggle to enable automatic cleanup (automatic mode)",
+      "message": "Toggle to enable automatic cleanup (automatic mode)"
+   },
+   "enableCleanupLogText": {
+      "description": "Enable Cleanup Log and Counter",
+      "message": "Enable Cleanup Log and Counter"
+   },
+   "enableGlobalSubdomainText": {
+      "description": "Enable Check for Subdomains",
+      "message": "Enable Check for Subdomains"
+   },
+   "errorText": {
+      "description": "Error!",
+      "message": "Error!"
+   },
+   "exportURLSText": {
+      "description": "Export Expressions",
+      "message": "Vie eväste säännöt"
+   },
+   "exportURLSTitle": {
+      "description": "A timestamp will be appended to the filename on export.\nHaving trouble downloading?  Right-Click this button and click 'Save Link As...' to download.",
+      "message": "A timestamp will be appended to the filename on export.\nHaving trouble downloading?  Right-Click this button and click 'Save Link As...' to download."
+   },
+   "extensionDescription": {
+      "description": "Control your cookies! Auto-delete unused cookies from your closed tabs while keeping the ones you want.",
+      "message": "Hallitse evästeitäsi! Poista käyttämättömät evästeet automaattisesti suljetuilta välilehdiltä, kuitenkin säilyttäen valitsemasi evästeet."
+   },
+   "extensionName": {
+      "description": "Name of the extension.",
+      "message": "Cookie AutoDelete"
+   },
+   "filterText": {
+      "description": "Filter",
+      "message": "Filter"
+   },
+   "greyListWordText": {
+      "description": "Greylist",
+      "message": "Harmaa lista"
+   },
+   "importURLSText": {
+      "description": "Import Expressions",
+      "message": "Tuo eväste säännöt"
+   },
+   "keepAllCookiesText": {
+      "description": "Keep All Cookies",
+      "message": "Keep All Cookies"
+   },
+   "keepLocalstorageText": {
+      "description": "Keep Localstorage",
+      "message": "Keep Localstorage"
+   },
+   "keepText": {
+      "description": "Keep",
+      "message": "Keep"
+   },
+   "listTypeText": {
+      "description": "List Type",
+      "message": "Tyyppi"
+   },
+   "localstorageAndContextualIdentitiesWarning": {
+      "description": "Enabling both Localstorage Cleanup and Container Tabs might cause some unwanted side effects due to API Limitations",
+      "message": "Enabling both Localstorage Cleanup and Container Tabs might cause some unwanted side effects due to API Limitations"
+   },
+   "localstorageCleanupText": {
+      "description": "Localstorage Cleanup (Firefox 58+)",
+      "message": "Localstorage Cleanup (Firefox 58+)"
+   },
+   "matchedDomainExpressionText": {
+      "description": "Matched Domain Expression",
+      "message": "Matched Domain Expression"
+   },
+   "minutesText": {
+      "description": "Minute(s)",
+      "message": "Minuutti(a)"
+   },
+   "noCleanupLogText": {
+      "description": "No Cleanup Logs Found",
+      "message": "No Cleanup Logs Found"
+   },
+   "noExpressionsText": {
+      "description": "No expressions defined.",
+      "message": "No expressions defined."
+   },
+   "noRulesText": {
+      "description": "No rules matched this domain",
+      "message": "Ei sääntöjä tällä domainilla"
+   },
+   "noneText": {
+      "description": "None",
+      "message": "None"
+   },
+   "notificationContent": {
+      "description": "123 Deleted Cookies from: google.com, facebook.com",
+      "message": "Poistettu $Num$ evästettä sivulta $Websites$",
+      "placeholders": {
+         "num": {
+            "content": "$1",
+            "example": "123"
+         },
+         "websites": {
+            "content": "$2",
+            "example": "google.com, facebook.com"
+         }
+      }
+   },
+   "notificationDisabledText": {
+      "description": "Notification disabled",
+      "message": "Notification disabled"
+   },
+   "notificationEnabledText": {
+      "description": "Notification enabled",
+      "message": "Notification enabled"
+   },
+   "notificationTitle": {
+      "description": "Cookie AutoDelete 3.X.X: Cookies were deleted!",
+      "message": "Cookie AutoDelete: Evästeet poistettu!",
+      "placeholders": {
+         "ver": {
+            "content": "$1",
+            "example": "3.0.0"
+         }
+      }
+   },
+   "notifyCookieCleanUpText": {
+      "description": "Show Notification After Cookie Cleanup",
+      "message": "Show Notification After Cookie Cleanup"
+   },
+   "optionsText": {
+      "description": "Options",
+      "message": "Options"
+   },
+   "preferencesText": {
+      "description": "Settings",
+      "message": "Asetukset"
+   },
+   "questionExpression": {
+      "description": "How do Expressions work?",
+      "message": "How do Expressions work?"
+   },
+   "reasonCleanCookieName": {
+      "description": "Partial clean because of matched *.google.com in the Whitelist",
+      "message": "Partial clean because of matched $matchedExpression$ in the $listType$",
+      "placeholders": {
+         "listType": {
+            "content": "$2",
+            "example": "Whitelist"
+         },
+         "matchedExpression": {
+            "content": "$1",
+            "example": "*.google.com"
+         }
+      }
+   },
+   "reasonCleanGreyList": {
+      "description": "Clean because of startup cleanup and *.google.com is in the Greylist",
+      "message": "Clean because of startup cleanup and $matchedExpression$ is in the Greylist",
+      "placeholders": {
+         "matchedExpression": {
+            "content": "$1",
+            "example": "*.google.com"
+         }
+      }
+   },
+   "reasonCleanNoList": {
+      "description": "Clean because sub.google.com is not in the White/Grey lists",
+      "message": "Clean because $hostname$ is not in the White/Grey lists",
+      "placeholders": {
+         "hostname": {
+            "content": "$1",
+            "example": "sub.google.com"
+         }
+      }
+   },
+   "reasonCleanStartupNoList": {
+      "description": "Clean because of startup cleanup and sub.google.com is not in the White/Grey lists",
+      "message": "Clean because of startup cleanup and $hostname$ is not in the White/Grey lists",
+      "placeholders": {
+         "hostname": {
+            "content": "$1",
+            "example": "sub.google.com"
+         }
+      }
+   },
+   "reasonKeep": {
+      "description": "Keep because of matched *.google.com in the Whitelist",
+      "message": "Keep because of matched $matchedExpression$ in the $listType$",
+      "placeholders": {
+         "listType": {
+            "content": "$2",
+            "example": "Whitelist"
+         },
+         "matchedExpression": {
+            "content": "$1",
+            "example": "*.google.com"
+         }
+      }
+   },
+   "reasonKeepOpenTab": {
+      "description": "Keep because of open tabs of *.google.com",
+      "message": "Keep because of open tabs of *.$mainDomain$",
+      "placeholders": {
+         "mainDomain": {
+            "content": "$1",
+            "example": "google.com"
+         }
+      }
+   },
+   "reasonTabsWereIgnored": {
+      "description": "Clean because of sub.google.com is not in the White/Grey lists and also open tabs were ignored",
+      "message": "and also open tabs were ignored"
+   },
+   "reasonTabsWereNotIgnored": {
+      "description": "Clean because of sub.google.com is not in the White/Grey lists or in any open tabs",
+      "message": "or in any open tabs"
+   },
+   "regularExpressionEquivalentText": {
+      "description": "Regular Expression Equivalent",
+      "message": "Regular Expression Equivalent"
+   },
+   "releaseNotesText": {
+      "description": "Release Notes",
+      "message": "Julkaisutiedot"
+   },
+   "removeExpressionText": {
+      "description": "Remove expression",
+      "message": "Poista sääntö"
+   },
+   "reportIssuesText": {
+      "description": "Report issues and suggest features",
+      "message": "Ilmoita ongelmista ja ehdota ominaisuuksia"
+   },
+   "resetExtensionDataText": {
+      "description": "Reset Extension Data",
+      "message": "Reset Extension Data"
+   },
+   "restoreText": {
+      "description": "Ex: Restore Cleanup",
+      "message": "Restore"
+   },
+   "reviewLinkMessage": {
+      "description": "Thanks for trying out Cookie AutoDelete. If you liked it, then please give a review.",
+      "message": "Kiitos kun käytät Cookie AutoDeleteä. Jos pidit siitä, niin jätä arvostelu."
+   },
+   "saveExpressionText": {
+      "description": "Save expression",
+      "message": "Tallenna sääntö"
+   },
+   "secondsText": {
+      "description": "Second(s)",
+      "message": "Second(s)"
+   },
+   "settingsText": {
+      "description": "Cookie Settings",
+      "message": "Evästeasetukset"
+   },
+   "showNumberOfCookiesInIconText": {
+      "description": "Show Number of Cookies for that Domain",
+      "message": "Show Number of Cookies for that Domain"
+   },
+   "stopEditingText": {
+      "description": "Stop editing",
+      "message": "Lopeta muokkaus"
+   },
+   "toGreyListText": {
+      "description": "Add to Greylist (Clean on Browser Restart)",
+      "message": "Lisää harmaalle listalle (puhdista selaimen käynnistyksessä)"
+   },
+   "toWhiteListText": {
+      "description": "Add to Whitelist (Never Clean)",
+      "message": "Lisää valkoiselle listalle (älä puhdista)"
+   },
+   "toggleNotificationText": {
+      "description": "Toggle to enable or disable notifications",
+      "message": "Toggle to enable or disable notifications"
+   },
+   "toggleToGreyListWordText": {
+      "description": "Toggle to greylist",
+      "message": "Toggle to greylist"
+   },
+   "toggleToWhiteListWordText": {
+      "description": "Toggle to whitelist",
+      "message": "Toggle to whitelist"
+   },
+   "versionText": {
+      "description": "Firefox version",
+      "message": "$browser$ versio",
+      "placeholders": {
+         "browser": {
+            "content": "$1",
+            "example": "Firefox"
+         }
+      }
+   },
+   "welcomeMessage": {
+      "description": "Hi there! During this session, Cookie AutoDelete has deleted 123 cookies and in total 456 cookies.",
+      "message": "Moikka! Tämän istunnon aikana Cookie AutoDelete on poistanut $sessionDeleted$ evästettä ja yhteensä $totalDeleted$ evästettä.",
+      "placeholders": {
+         "sessionDeleted": {
+            "content": "$1",
+            "example": "123"
+         },
+         "totalDeleted": {
+            "content": "$2",
+            "example": "456"
+         }
+      }
+   },
+   "welcomeText": {
+      "description": "Welcome",
+      "message": "Tervetuloa"
+   },
+   "whiteListText": {
+      "description": "List of Expressions",
+      "message": "Sääntölista"
+   },
+   "whiteListWordText": {
+      "description": "Whitelist",
+      "message": "Sallitut sivut"
+   }
+}

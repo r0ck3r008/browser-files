@@ -1,47 +1,32 @@
 {
    "5EdUoB7YUY9zZV+2DkgVXgho8WUvp+D+6KpeUOhNQIM=": {
-      "dynamic_spki_hashes_expiry": 0.0,
-      "expiry": 1574075042.116305,
+      "expiry": 1591979984.035556,
       "mode": "force-https",
-      "pkp_include_subdomains": false,
-      "pkp_observed": 0.0,
       "sts_include_subdomains": false,
-      "sts_observed": 1542539042.116312
+      "sts_observed": 1560443984.035559
    },
    "5GYz8zgyxNndKNz0gSH5l0ukqN8nKFvipuTcbnbcoyo=": {
-      "dynamic_spki_hashes_expiry": 0.0,
-      "expiry": 1574075084.883142,
+      "expiry": 1591980028.383684,
       "mode": "force-https",
-      "pkp_include_subdomains": false,
-      "pkp_observed": 0.0,
       "sts_include_subdomains": false,
-      "sts_observed": 1542539084.883149
+      "sts_observed": 1560444028.38369
    },
    "8/RrMmQlCD2Gsp14wUCE1P8r7B2C5+yE0+g79IPyRsc=": {
-      "dynamic_spki_hashes_expiry": 0.0,
-      "expiry": 1574163706.030953,
+      "expiry": 1591980683.454237,
       "mode": "force-https",
-      "pkp_include_subdomains": false,
-      "pkp_observed": 0.0,
       "sts_include_subdomains": false,
-      "sts_observed": 1542627706.030965
+      "sts_observed": 1560444683.454239
    },
    "LAZkYS46RVRcFiZAzmUJrz6TJHBd4nwE6VxPWfPLYHs=": {
-      "dynamic_spki_hashes_expiry": 0.0,
-      "expiry": 1553425460.844997,
+      "expiry": 1571330496.121099,
       "mode": "force-https",
-      "pkp_include_subdomains": false,
-      "pkp_observed": 0.0,
       "sts_include_subdomains": true,
-      "sts_observed": 1542539060.845009
+      "sts_observed": 1560444096.121108
    },
-   "kYxWDeIDVgesBS02XkmPRTIpB0nkimBvKZESXctn8eA=": {
-      "dynamic_spki_hashes_expiry": 0.0,
-      "expiry": 1574075411.740084,
+   "qhkH9gdxKhEU9AtSpJdNby361kf6xFvaSDsh29+guzw=": {
+      "expiry": 1591980553.322806,
       "mode": "force-https",
-      "pkp_include_subdomains": false,
-      "pkp_observed": 0.0,
       "sts_include_subdomains": false,
-      "sts_observed": 1542539411.740086
+      "sts_observed": 1560444553.322814
    }
 }
